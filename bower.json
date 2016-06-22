@@ -1,0 +1,13 @@
+{
+  "name": "json-timeseries-extension",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
